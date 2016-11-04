@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>THE URL FOR INSTALLATION @2x ICON: ex: http://go.com/Icon@2x.png</string>
+					<string>https://github.com/cszhan163/install/blob/master/static/images/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>THE URL FOR INSTALLATION ICON: ex: http://go.com/Icon.png</string>
+					<string>https://github.com/cszhan163/install/blob/master/static/images/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
